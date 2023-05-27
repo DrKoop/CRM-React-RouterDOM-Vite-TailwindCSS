@@ -4,7 +4,7 @@ const Cliente = ({cliente}) => {
     const {nombre, empresa, email, telefono, id} = cliente
 
     return (
-        <tr className="test">
+        <tr className="">
             <td className="p-6">
                 {nombre}
             </td>
