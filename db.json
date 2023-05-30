@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actual",
+      "empresa": "DeveloperLATAM",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "test1",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "DeveloperLATAM"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "DeveloperLATAM"
+    }
+  ]
+}
